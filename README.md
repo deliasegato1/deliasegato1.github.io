@@ -8,7 +8,7 @@ I aim looking for new research opportunities on the field of paleoclimate modeli
 
 
 ### Current project
-<img align="right" width="250" height="200" src="Foto_Svalbard.JPG">
+
 
 * Analysis of mercury in the SE-Dome ice core (Greenland) using cold vapour atomic fluorescence spectroscopy
 
