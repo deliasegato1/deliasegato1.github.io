@@ -15,7 +15,7 @@ I aim looking for new research opportunities on the field of paleoclimate modeli
 ### Previous projects
 * Reconstruction of mercury flux in the EGRIP ice core for the period 9000 - 15700 years before present. Find [here](https://www.nature.com/articles/s41561-023-01172-9) the article.
 * Reconstruction of halogens (bromine and iodine) in the EGRIP ice core over the last 15700 years.
-* The spatial variability of halogens and methanesulphonic acid deposition in the Southern Ocean reconstructed using five sub-Antarctic shallow cores. Find [here](https://www.sciencedirect.com/science/article/pii/S1352231023007057)) the article.
+* The spatial variability of halogens and methanesulphonic acid deposition in the Southern Ocean reconstructed using five sub-Antarctic shallow cores. Find [here](https://www.sciencedirect.com/science/article/pii/S1352231023007057) the article.
 * Human and natural impact on the fire regime in the High North Atlantic Region reconstructed over the last 5 millennia from levoglucosan, black carbon and ammonium in the RECAP ice core. Find [here](https://doi.org/10.5194/cp-17-1533-2021) the article.
 
 ### Awards and honors
