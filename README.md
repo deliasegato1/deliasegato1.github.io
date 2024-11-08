@@ -5,11 +5,11 @@ I'm a climate scientist at European Commission's Joint Research Center in Ispra 
 My main research interest is the climate-chemistry feedback - how the atmospheric composition impacts climate - and I like to code using Python. I'm also developing a strong interest in numerical modeling and look forward to extend my modeling expertise beyond WRF.
 
 ### My career so far: 
-2024-present: Scientific Project Officer at European Commission's Joint Research Center, Ispra (VA) Italy
-2022-2023: Postdoc at CNR Intitute of Polar Sciences in Venice (Italy)
-2018-2023: PhD in Science and Management of Climate Change at Ca' Foscari university of Venice (Italy)
-2014-2017: MSc in Environmental Sciences, curriculum in chemistry, at Ca' Foscari university of Venice (Italy)
-2011-2014: MSc in Environmental Sciences, curriculum in chemistry, at Ca' Foscari university of Venice (Italy)
+2024-present: Scientific Project Officer at European Commission's Joint Research Center, Ispra (VA) Italy  
+2022-2023: Postdoc at CNR Intitute of Polar Sciences in Venice (Italy)  
+2018-2023: PhD in Science and Management of Climate Change at Ca' Foscari university of Venice (Italy)  
+2014-2017: MSc in Environmental Sciences, curriculum in chemistry, at Ca' Foscari university of Venice (Italy)  
+2011-2014: MSc in Environmental Sciences, curriculum in chemistry, at Ca' Foscari university of Venice (Italy)  
 
 ### Current projects
 * Evaluation of Copernicus Atmospheric Monitoring Service methane products from inverse modeling and data assimilation.
