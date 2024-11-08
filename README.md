@@ -3,7 +3,7 @@
 
 I'm a climate scientist at European Commission's Joint Research Center in Ispra (VA) Italy. My research is focused on improving the estimation of regional methane emissions and those from anthropogenic superemitters. Previously, my research focused on the biogeochemical cycles of bromine, mercury and iodine using paleoclimate reconstructions and chemistry modeling.
 My main research interest is the climate-chemistry feedback - how the atmospheric composition impacts climate - and I like to code using Python. I'm also developing a strong interest in numerical modeling and look forward to extend my modeling expertise beyond WRF.
-<img align="right" width="200" height="200" src="Foto profilo.jpg">
+<img align="right" width="200" height="250" src="Foto profilo.jpg">
 
 ### My career so far: 
 2024-present: Scientific Project Officer at European Commission's Joint Research Center, Ispra (VA) Italy  
